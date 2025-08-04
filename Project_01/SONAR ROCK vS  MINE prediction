@@ -1,0 +1,4 @@
+database file ----> https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGMzcW5NZ0hnRWFpd2FhbHF2cHlmTklkRnB5d3xBQ3Jtc0tsRk81V0FDbkRMa1d3T2hzSXBjRDhtN2RDOVo4NVh6NFVPeXlkeW8wbXNNTkRLaVhJcDd3V2NrNXNOUkk4T19aUHVtcUtIbnZaQ3VlOVJJZjBROVRSRllYRUt4NjdGSENqc29ROVVvTFBadEc2TGFOMA&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa%2Fview%3Fusp%3Ddrivesdk&v=fiz1ORTBGpY
+
+we are building a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using Logistic Regression Model for our prediction. 
+We will be doing our Python Programming in Google Colaboratory
